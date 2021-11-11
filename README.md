@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Elias a student at KFU Graz and TU Graz.
+I'm Elias, a student at KFU Graz and TU Graz.
 
 Physics at NAWI Graz
 
