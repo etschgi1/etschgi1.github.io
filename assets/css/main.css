@@ -2962,6 +2962,7 @@ input, select, textarea {
 
 			.gallery a.portrait img {
 				height: 30vw;
+				aspect-ratio: 3 / 4;
 			}
 
 		.gallery .modal {
@@ -3102,13 +3103,15 @@ input, select, textarea {
 				height: 25rem;
 			}
 
-			.gallery a.portrait img {
-				height: 25rem;
-			}
-
-			.gallery .modal .inner img {
-				max-width: 100vw;
-			}
+			.gallery a.landscape img {
+				height: auto;
+				max-width: 100%;
+			  }
+			  
+			  .gallery a.portrait img {
+				height: auto;
+				max-width: 100%;
+			  }
 
 		}
 
